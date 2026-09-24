@@ -1,0 +1,13 @@
+# Untuk menambah data, isi form "Tambah Data Senjata Dagangan":
+ID Senjata: SNJ006
+Nama: Beretta M9
+Jenis: Pistol
+Spesifikasi: 9mm, Alloy Frame, 15 rounds
+Made In: Italia
+Harga: 15000000
+Stok: 7
+Kondisi: Baru
+Garansi: Ya
+Kode Lisensi Jual: LIS-M9-006
+Penjual: Toko Senjata Jaya
+Foto Produk: img/beretta.jpg

@@ -1,0 +1,27 @@
+1
+SNJ006
+Beretta M9
+Pistol
+9mm, Alloy Frame, 15 rounds
+Italia
+15000000
+7
+Baru
+Ya
+LIS-M9-006
+Toko Senjata Jaya
+2
+1
+SNJ007
+MP5
+SMG
+9mm, 30 rounds, Folding Stock
+Jerman
+28000000
+4
+Baru
+Tidak
+LIS-MP5-007
+PT Pindad Store
+2
+0
